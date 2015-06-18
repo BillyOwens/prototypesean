@@ -1,0 +1,16 @@
+In 1841, the first volcanological observatory, the Vesuvius Observatory, was founded in the Kingdom of the Two Sicilies.
+
+Seismic observations are made using seismographs deployed near volcanic areas, watching out for increased seismicity during volcanic events, in particular looking for long period harmonic tremors, which signal magma movement through volcanic conduits.[1]
+
+Surface deformation monitoring includes the use of geodetic techniques such as leveling, tilt, strain, angle and distance measurements through tiltmeters, total stations and EDMs. This also includes GNSS observations and InSAR.[2] Surface deformation indicates magma upwelling: increased magma supply produces bulges in the volcanic center's surface.
+
+Gas emissions may be monitored with equipment including portable ultra-violet spectrometers (COSPEC, now superseded by the miniDOAS), which analyzes the presence of volcanic gases such as sulfur dioxide; or by infra-red spectroscopy (FTIR). Increased gas emissions, and more particularly changes in gas compositions, may signal an impending volcanic eruption.[1]
+
+Temperature changes are monitored using thermometers and observing changes in thermal properties of volcanic lakes and vents, which may indicate upcoming activity.[3]
+
+Satellites are widely used to monitor volcanoes, as they allow a large area to be monitored easily. They can measure the spread of an ash plume, such as the one from Eyjafjallajokull's 2010 eruption,[4] as well as SO2 emissions.[5] InSAR and thermal imaging can monitor large, scarcely populated areas where it would be too expensive to maintain instruments on the ground.
+
+Other geophysical techniques (electrical, gravity and magnetic observations) include monitoring fluctuations and sudden change in resistivity, gravity anomalies or magnetic anomaly patterns that may indicate volcano-induced faulting and magma upwelling.[3]
+
+Stratigraphic analyses includes analyzing tephra and lava deposits and dating these to give volcano eruption patterns, with estimated cycles of intense activity and size of eruptions.[1]
+
